@@ -79,3 +79,5 @@ if operation == "s":
     print(f'The sum of the integers between 1 and {number} is {compute_sum(number)}')
 elif operation == "p":
     print(f'The product of the integers between 1 and {number} is {compute_product(number)}')
+
+print('Hi Paul!')
